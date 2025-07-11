@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a 3rd-year Computer Engineering student
+- 🎓 I'm a Final year Computer Engineering student
 - 🌱 Currently learning: **AI, UI/UX, Full-Stack Development**
 - 💡 Interested in: **Generative AI, AR/VR, and Smart Applications**
 - 🔭 Working on: **AI-powered study companion and Virtual Campus Tour app**
